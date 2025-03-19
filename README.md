@@ -6,26 +6,13 @@ Welcome to my public portfolio for Telling Stories with Data at CMU! This is whe
 
 # About me
 
-<div style="display: flex; align-items: flex-start;">
-    <img src="About-me.jpg" alt="Image" width="100" style="vertical-align: top;">
-    <div style="margin-left: 10px; font-family: Tiempos, serif; font-size: 16px; font-weight: 700;">
-        Is your city prepared for Urban Mobility? →
-    </div>
-</div>
-<div style="display: flex; align-items: flex-start;">
-    <img src="About-me.jpg" alt="Image" width="100">
-    <span style="margin-left: 10px; font-family: Tiempos, serif; font-size: 16px; font-weight: 700;">
-        Is your city prepared for Urban Mobility? →
-    </span>
-</div>
+
 <div style="display: flex;  align-items: flex-start;">
     <img src="About-me.jpg" alt="Image" width="200">
-    <span style="margin-left: 10px; font-family: Tiempos, serif; font-size: 16px; font-weight: 700;">
+    <span style="margin-left: 10px; font-family: Tiempos, serif; font-size: 16px; font-weight: 400; font-style:italic;">
         Hi! I’m Ashish, a final year master's student in Information Systems at CMU Heinz College. I am passionate about data, and I love bringing it to life through visualizations. There’s something exciting about discovering patterns, trends, and hidden insights in a dataset and  finding the best way to communicate them to your users. Whether it’s designing interactive charts, experimenting with different visualization techniques, or telling a data-driven story, I’m always looking for creative ways to make information engaging and accessible to everyone. Outside of work, I love tennis, dance, music and travelling. 
     </span>
 </div>
-<img src="About-me.jpg" width="200"/>
-Hi! I’m Ashish, a final year master's student in Information Systems at CMU Heinz College. I am passionate about data, and I love bringing it to life through visualizations. There’s something exciting about discovering patterns, trends, and hidden insights in a dataset and  finding the best way to communicate them to your users. Whether it’s designing interactive charts, experimenting with different visualization techniques, or telling a data-driven story, I’m always looking for creative ways to make information engaging and accessible to everyone. Outside of work, I love tennis, dance, music and travelling. 
 
 # What I hope to learn
 
