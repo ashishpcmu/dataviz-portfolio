@@ -9,23 +9,23 @@ Hi! I’m Ashish, a final year master's in Information Systems at CMU Heinz Coll
 
 # What I hope to learn
 
-I’m here to learn all the things—obviously! But more specifically, I want to explore best practices in data storytelling, improve my ability to design effective and intuitive visualizations, and experiment with different tools and techniques. I’d also love to dive deeper into interactivity, animation, and ways to make data more engaging for diverse audiences. Maybe I should list everything I hope to learn in Markdown, like this:
+I’m here to learn all the things—obviously! But more specifically, I want to explore best practices in effective data storytelling to an 
+ audience, improve my ability to design effective and intuitive visualizations, and experiment with different tools and techniques. I’d also love to dive deeper into ways to make data more engaging for diverse audiences. Here is a list of things I am hoping to learn!
 
-## Key Learning Areas  
+<span style="color:blue; font-weight:bold;">→ How to choose the best visualization graphs and charts for different datasets</span>  
 
-<span style="color:blue; font-weight:bold;">✔ How to choose the best visualization graphs and charts for different datasets</span>  
+<span style="color:green; font-style:italic;">→ Best practices for making charts engaging and understandable</span>  
 
-<span style="color:green; font-style:italic;">✔ Best practices for making charts engaging and understandable</span>  
+<span style="color:purple; text-decoration:underline;">→ Tools like Tableau, and Datawrapper for creating visual stories</span>  
 
-<span style="color:purple; text-decoration:underline;">✔ Tools like Tableau, and Datawrapper for creating visual stories</span>  
-
-<span style="color:red; font-weight:bold; font-style:italic;">✔ How to use color, layout, and typography effectively</span>  
+<span style="color:red; font-weight:bold; font-style:italic;">→ How to use color, layout, and typography effectively</span>  
 
 
 # Portfolio
 
+## Using Datawrapper for quick visualization
 
-##Here's the first chart I made in this course:
+Here's the first chart I made in this course using Datawrapper!
 
 <iframe title="Is your city prepared for Urban Mobility ?  " aria-label="Split Bars" id="datawrapper-chart-fkZRi" src="https://datawrapper.dwcdn.net/fkZRi/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1734" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}}))}();
 </script>
