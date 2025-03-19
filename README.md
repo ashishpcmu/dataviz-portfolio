@@ -1,35 +1,34 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# TSWD-portfolio-templates
-These portfolio templates are for setting up your Telling Stories with Data site.  Edit these pages and add new ones as needed.   
-It's always helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
-
-- Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
-- This repository: https://github.com/cmustudent/tswd-portfolio-templates/
 
 # Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+Welcome to my public portfolio for Telling Stories with Data at CMU! This is where I’ll showcase my cool work that transforms raw data into compelling visual narratives. Whether it’s uncovering insights, building interactive dashboards, or crafting striking infographics, I’m all about making data meaningful and providing interesting contextual insights to the user. If you're looking for someone who can turn numbers into stories, you should probably hire me.
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hi! I’m Ashish, a final year master's in Information Systems at CMU Heinz College. I am passionate about data, and I love bringing it to life through visualizations. There’s something exciting about discovering patterns, trends, and hidden insights in a dataset and then finding the best way to communicate them to your users. Whether it’s designing interactive charts, experimenting with different visualization techniques, or telling a data-driven story, I’m always looking for creative ways to make information engaging and accessible to everyone.
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
 
-1. List item #1
-2. List item #2
-3. List item #3
+I’m here to learn all the things—obviously! But more specifically, I want to explore best practices in data storytelling, improve my ability to design effective and intuitive visualizations, and experiment with different tools and techniques. I’d also love to dive deeper into interactivity, animation, and ways to make data more engaging for diverse audiences. Maybe I should list everything I hope to learn in Markdown, like this:
 
-or...
+## Key Learning Areas  
 
-- List item #1
-- List item #2
-- List item #3
+<span style="color:blue; font-weight:bold;">✔ How to choose the best visualization graphs and charts for different datasets</span>  
+
+<span style="color:green; font-style:italic;">✔ Best practices for making charts engaging and understandable</span>  
+
+<span style="color:purple; text-decoration:underline;">✔ Tools like Tableau, and Datawrapper for creating visual stories</span>  
+
+<span style="color:red; font-weight:bold; font-style:italic;">✔ How to use color, layout, and typography effectively</span>  
+
 
 # Portfolio
 
-# Examples
-You can keep this section for stuff from in-class demos or your other work, or remove it. 
+
+##Here's the first chart I made in this course:
+
+<iframe title="Is your city prepared for Urban Mobility ?  " aria-label="Split Bars" id="datawrapper-chart-fkZRi" src="https://datawrapper.dwcdn.net/fkZRi/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1734" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}}))}();
+</script>
 
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
