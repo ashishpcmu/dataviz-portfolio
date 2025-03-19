@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://ashishpcmu.github.io/dataviz-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 
 # Portfolio
@@ -16,7 +16,7 @@ I’m here to learn all the things—obviously! But more specifically, I want to
 
 <span style="color:green; font-style:italic;">→ Best practices for making charts engaging and understandable</span>  
 
-<span style="color:purple; text-decoration:underline;">→ Tools like Tableau, and Datawrapper for creating visual stories</span>  
+<span style="color:purple; ">→ Tools like Tableau, and Datawrapper for creating visual stories</span>  
 
 <span style="color:red; font-weight:bold; font-style:italic;">→ How to use color, layout, and typography effectively</span>  
 
