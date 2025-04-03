@@ -5,11 +5,13 @@
 
 ## Step one: the visualization
 
-Original Graph: Number of Employer Firms, by Firm Receipt Amount, by Race/Ethnicity (Nationwide and Statewide, 2023)
+**Original Graph**: Number of Employer Firms, by Firm Receipt Amount, by Race/Ethnicity (Nationwide and Statewide, 2023)
+
+**Source**: https://blackwealthdata.org/explore/business , based on U.S. Census and NSF ABS data
 
   <img src="Image1.png" alt="Image" width="500">
 
-Source: https://blackwealthdata.org/explore/business , based on U.S. Census and NSF ABS data
+
 
 ### Why I Selected This Visualization?
 
@@ -19,11 +21,11 @@ I chose this visualization because it attempts to tell a story about racial disp
 
 ## Step two: the critique
 
-The seven-point scale (usefulness, completeness, perceptibility, truthfulness, intuitiveness, aesthetics, and engagement) was a highly effective framework for breaking down a visualization's technical effectiveness and emotional resonance. It forced me to think about the chart from multiple perspectives: not just what data is shown, but how accessible, truthful, and engaging that data actually is.
+The seven-point scale **(usefulness, completeness, perceptibility, truthfulness, intuitiveness, aesthetics, and engagement)** was a highly effective framework for breaking down a visualization's technical effectiveness and emotional resonance. It forced me to think about the chart from multiple perspectives: not just what data is shown, but how accessible, truthful, and engaging that data actually is.
 
-The Good Charts critique method — centered around contextual awareness and design execution, along with four guided reflections — is much more narrative-driven and user-centered. Rather than scoring against a rubric, you're encouraged to engage with the chart more like a human than a technician. It promotes creative thinking and emotional insight. It rncourages you to take the perspective of the audience or user since it's inherently redesign-oriented, helping move from critique to ideation.
+The Good Charts critique method — centered around **contextual awareness and design execution**, along with four guided reflections — is much **more narrative-driven and user-centered**. Rather than scoring against a rubric, you're encouraged to engage with the chart more like a human than a technician. It promotes creative thinking and emotional insight. It rncourages you to take the perspective of the audience or user since it's inherently redesign-oriented, helping move from critique to ideation.
 
-In this project, I found it especially useful to start with the seven-point critique to diagnose the weaknesses of the original visualization — and then use the Good Charts framework to creatively explore what the redesign could and should do differently.
+In this project, I found it especially useful to **start with the seven-point critique** to diagnose the weaknesses of the original visualization — and **then use the Good Charts framework** to creatively explore what the redesign could and should do differently.
 
 
 ## Step three: Sketch a solution
@@ -47,6 +49,8 @@ The transition from national/racial breakdown → state-level revenue comparison
 * **Stacked bars:** One per revenue bracket, with 10 colors representing states.
 
 * **Legend:** State-color matching on right side.
+
+Below is the quick visualization done in Tableau from the data:
 
     <img src="Image3.png" alt="Image" width="500">
 
