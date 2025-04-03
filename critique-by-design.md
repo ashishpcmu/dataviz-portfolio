@@ -52,7 +52,7 @@ The transition from national/racial breakdown → state-level revenue comparison
 
 Below is the quick visualization done in Tableau from the data:
 
-    <img src="Image3.png" alt="Image" width="500">
+<img src="Image3.png" alt="Image3" width="500">
 
 I prioritized stacked bar charts over grouped bars because it emphasizes relative contribution to total within each bracket.
 
