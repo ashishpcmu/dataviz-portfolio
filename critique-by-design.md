@@ -1,15 +1,9 @@
 | [home page](https://ashishpcmu.github.io/dataviz-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # State of Enterprise: California and the Rise of High-Revenue Employer Firms
-Text here...
 
-_For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
-
-_You can include screenshots, sketches or other artifacts with your narrative to help tell the story of how you moved through the process.  Again, make sure to avoid including any personally identifying information about your interviewees (don't list full names, etc.).  While this template serves as a guide, make sure to reference the assignment writeup on Canvas for the official guidance.  This template does not include all guidance mentioned on the assignment page._
 
 ## Step one: the visualization
-
-_Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
 
 Original Graph: Number of Employer Firms, by Firm Receipt Amount, by Race/Ethnicity (Nationwide and Statewide, 2023)
 
@@ -24,7 +18,6 @@ I chose this visualization because it attempts to tell a story about racial disp
 
 
 ## Step two: the critique
-_Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
 
 The seven-point scale (usefulness, completeness, perceptibility, truthfulness, intuitiveness, aesthetics, and engagement) was a highly effective framework for breaking down a visualization's technical effectiveness and emotional resonance. It forced me to think about the chart from multiple perspectives: not just what data is shown, but how accessible, truthful, and engaging that data actually is.
 
@@ -92,7 +85,6 @@ _What patterns in the feedback emerge?  What did you learn from the feedback?  B
 
 ## Step five: build the solution
 
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
 
 <div class='tableauPlaceholder' id='viz1743650428838' style='position: relative'>
    <noscript><a href='#'><img alt='State of Enterprise: California leads the states with the most $1M+ revenue firms ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;To&#47;Top10States-AnnualRevenuefirms&#47;Top10States-AnnualRevenuefirms&#47;1_rss.png' style='border: none' /></a></noscript>
@@ -127,9 +119,5 @@ _Include and describe your final solution here. It's also a good idea to summari
 
 The new graph isn't just a visual upgrade — it's also data reframing. I learned that design isn’t just about making charts prettier, but about asking “What story do I want to tell?” In this case, I decided to surface state-level economic contributions, which not only told a different story, but arguably a more actionable one for regional policy or investment decisions.
 
-## References
-_List any references you used here._
 
-## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
 
