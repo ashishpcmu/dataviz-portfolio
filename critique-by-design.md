@@ -57,7 +57,7 @@ I prioritized stacked bar charts over grouped bars because it emphasizes relativ
 ## Step four: Test the solution
 
 
-* Questions asked: 
+### Questions asked: 
 
 - Can you tell me what insight this graph wants to convey?
 
@@ -71,19 +71,18 @@ I prioritized stacked bar charts over grouped bars because it emphasizes relativ
 
 - Does the color scheme reflect the insight without confusion?
 
-* Results: 
+### Results: 
 
 
 
 | Question | Interview 1 | Interview 2 |
 |----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
+| What can be better?         |  The title can be made into insight. The color coding can be minimal.           | Maybe just show the highest revenue instead of all buckets.   The axis labels can be more intuitive. Show values in stacked bars for easy reference.         |
 
-Synthesis: 
 
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+### Synthesis: 
+
+From the feedback, I recognized the insight from the graph was not very clear. So I just focussed on the $1M+ revenue category so that California can be easily recognized as the top performing state.  This makes more sense instead of data overdose with so many revenue categories. Based on this, the title was changed as an insight. I switched from multi-color palette to 2 color scheme to make the chart simple and intuitive. California was made orange and other states were made grey to show the contrast. The label axis was also changed based on inputs.
 
 ## Step five: build the solution
 
