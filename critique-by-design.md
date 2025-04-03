@@ -86,7 +86,7 @@ _What patterns in the feedback emerge?  What did you learn from the feedback?  B
 ## Step five: build the solution
 
 
-<div class='tableauPlaceholder' id='viz1743650428838' style='position: relative'>
+<div class='tableauPlaceholder' id='viz1743650963607' style='position: relative'>
    <noscript><a href='#'><img alt='State of Enterprise: California leads the states with the most $1M+ revenue firms ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;To&#47;Top10States-AnnualRevenuefirms&#47;Top10States-AnnualRevenuefirms&#47;1_rss.png' style='border: none' /></a></noscript>
    <object class='tableauViz'  style='display:none;'>
       <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
@@ -105,7 +105,7 @@ _What patterns in the feedback emerge?  What did you learn from the feedback?  B
       <param name='filter' value='publish=yes' />
    </object>
 </div>
-<script type='text/javascript'>                    var divElement = document.getElementById('viz1743650428838');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+<script type='text/javascript'>                    var divElement = document.getElementById('viz1743650963607');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 
 ### What the Redesign Does Differently:
 
