@@ -7,7 +7,7 @@
 
 Original Graph: Number of Employer Firms, by Firm Receipt Amount, by Race/Ethnicity (Nationwide and Statewide, 2023)
 
-  <img src="original_graph.png" alt="Image" width="500">
+  <img src="Image1.png" alt="Image" width="500">
 
 Source: https://blackwealthdata.org/explore/business , based on U.S. Census and NSF ABS data
 
@@ -30,6 +30,8 @@ In this project, I found it especially useful to start with the seven-point crit
 
 The transition from national/racial breakdown → state-level revenue comparison required a completely new visual structure.
 
+  <img src="Image2.jpg" alt="Image" width="500">
+
 **Early Design Goals:**
 * Make comparisons across states within revenue brackets.
 
@@ -45,6 +47,8 @@ The transition from national/racial breakdown → state-level revenue comparison
 * **Stacked bars:** One per revenue bracket, with 10 colors representing states.
 
 * **Legend:** State-color matching on right side.
+
+    <img src="Image3.png" alt="Image" width="500">
 
 I prioritized stacked bar charts over grouped bars because it emphasizes relative contribution to total within each bracket.
 
