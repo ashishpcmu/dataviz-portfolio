@@ -85,24 +85,29 @@ The final section contrasts two possible futures:
 
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
-While detailed graphics will be created later, these are the anticipated visuals:
+- Below are images of anticipated data visualizations. They show how much AI human labour goes into training, and the exploitation of workers. 
 
-- Map: Global heatmap showing worker concentration by country
 
-- Sankey Diagram: AI model development pipeline with human interventions marked
+ <img src="P1I1.jpg" alt="Image" width="500">
+
+ <img src="P1I2.jpg" alt="Image" width="500">
+
+
+
+- Line chart: Time spent in AI labelling tasks
 
 - Bar Chart: Wage comparison – AI engineers ($150K) vs. data annotators (<$5/hr)
 
+- Time series chart: #AI Lawsuits increased over time
+
 - Quote Visuals: Real testimonials pulled from interviews and reports
 
-- Split-screen Future: Ethical AI vs. Exploitative AI pipeline
+
 
 
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
 ### Available Data Sources
 
