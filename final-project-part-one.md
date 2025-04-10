@@ -148,7 +148,6 @@ We will draw from a combination of public datasets, academic research, investiga
 
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project.
 
 Tools & Platforms
 
