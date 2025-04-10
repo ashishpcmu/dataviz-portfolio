@@ -97,7 +97,7 @@ The final section contrasts two possible futures:
 
 - Line chart: Time spent in AI labelling tasks
 
-- Bar Chart: Wage comparison – AI engineers ($150K) vs. data annotators (<$5/hr)
+- Bar Chart: Wage comparison – AI engineers (high paid) vs. data annotators (No to minimum pay)
 
 - Time series chart: #AI Lawsuits increased over time
 
@@ -113,41 +113,35 @@ The final section contrasts two possible futures:
 
 We will draw from a combination of public datasets, academic research, investigative journalism, and nonprofit reports to build a holistic picture of invisible labor in AI.
 
-Available Data Sources
-ILOSTAT – International Labour Organization
-Useful for comparing average wages and working hours across countries.
+- **[ILOSTAT – International Labour Organization](https://ilostat.ilo.org/data/)**  
+  Useful for comparing average wages and working hours across countries.
 
-World Bank Data
-Global economic indicators, labor participation rates, and wage comparisons.
+- **[World Bank Data](https://data.worldbank.org/)**  
+  Global economic indicators, labor participation rates, and wage comparisons.
 
-Fairwork Ratings & Reports
-Data on working conditions of digital labor platforms.
+- **[Fairwork Ratings & Reports](https://fair.work/en/fw/homepage/)**  
+  Data on working conditions of digital labor platforms.
 
-Upwork & MTurk Data Collection
-Information on task pricing, job types, and worker testimonials.
+- **[Upwork](https://www.upwork.com/) & [Amazon Mechanical Turk (MTurk)](https://www.mturk.com/)**  
+  Information on task pricing, job types, and worker testimonials.
 
-Appen & Sama Public Reports
-Case studies and transparency reports from major annotation firms.
+- **[Appen](https://appen.com/resources/whitepapers/) & [Sama](https://www.sama.com/resources/)**  
+  Case studies and transparency reports from major annotation firms.
 
-Research Reports
-Name	URL	Description
-Ghost Workers (Gray & Suri)	https://ghostworkers.info	Foundational book on the global workforce behind AI
-MIT Tech Review – The Hidden Human Labor Behind AI	https://www.technologyreview.com/2021/03/18/1020600/the-hidden-human-labor-behind-artificial-intelligence/	Investigative deep-dive on invisible labor
-TIME – Inside OpenAI’s Outsourced Workforce	https://time.com/6147458/openai-chatgpt-kenya-workers/	Firsthand stories of Kenyan labelers for OpenAI
-Partnership on AI – Responsible Sourcing	https://partnershiponai.org/responsible-sourcing-of-data-enrichment-services/	Frameworks for ethical AI labor practices
-Fairwork – Ratings of Labor Platforms	https://fair.work/en/fw/homepage/	Comparative data on labor platforms like Appen, Clickworker, etc.
-Text here...
-
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
 
 
 ### Research Reports
 
 | Name | URL | Description |
 |------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+| Ghost Workers (Gray & Suri) | https://ghostworkers.info | Foundational book on the global workforce behind AI |
+| MIT Tech Review – The Hidden Human Labor Behind AI | https://www.technologyreview.com/2021/03/18/1020600/the-hidden-human-labor-behind-artificial-intelligence/ | Investigative deep-dive on invisible labor |
+| TIME – Inside OpenAI’s Outsourced Workforce | https://time.com/6147458/openai-chatgpt-kenya-workers/ | Firsthand stories of Kenyan labelers for OpenAI |
+| Partnership on AI – Responsible Sourcing | https://partnershiponai.org/responsible-sourcing-of-data-enrichment-services/ | Frameworks for ethical AI labor practices |
+| Fairwork – Ratings of Labor Platforms | https://fair.work/en/fw/homepage/ | Comparative data on labor platforms like Appen, Clickworker, etc. |
+
+
+
 
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project.
@@ -160,15 +154,17 @@ Tools & Platforms
 
 
 ## References
-References
-Gray, M. L., & Suri, S. (2019). Ghost Work: How to Stop Silicon Valley from Building a New Global Underclass
 
-Partnership on AI. (2021). Responsible Sourcing of Data Enrichment Services
+- Gray, M. L., & Suri, S. (2019). *Ghost Work: How to Stop Silicon Valley from Building a New Global Underclass*.
 
-MIT Technology Review. (2021). The Hidden Human Labor Behind AI
+- Partnership on AI. (2021). *Responsible Sourcing of Data Enrichment Services*. Retrieved from [https://partnershiponai.org/responsible-sourcing-of-data-enrichment-services/](https://partnershiponai.org/responsible-sourcing-of-data-enrichment-services/)
 
-TIME. (2023). Inside OpenAI’s Outsourced Workforce
+- MIT Technology Review. (2021). *The Hidden Human Labor Behind AI*. Retrieved from [https://www.technologyreview.com/2021/03/18/1020600/the-hidden-human-labor-behind-artificial-intelligence/](https://www.technologyreview.com/2021/03/18/1020600/the-hidden-human-labor-behind-artificial-intelligence/)
 
-Fairwork Project. https://fair.work
+- TIME. (2023). *Inside OpenAI’s Outsourced Workforce*. Retrieved from [https://time.com/6147458/openai-chatgpt-kenya-workers/](https://time.com/6147458/openai-chatgpt-kenya-workers/)
+
+- Fairwork Project. *Fairwork Ratings and Reports*. Retrieved from [https://fair.work](https://fair.work)
+
+
 
 
