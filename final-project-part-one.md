@@ -121,11 +121,6 @@ We will draw from a combination of public datasets, academic research, investiga
 | Quote Visuals            | [Mercy’s testimonial (Kenya)](https://www.kenyancontentmoderators.com), [Saiph Savage’s research](https://www.saiphsavage.com/research) | Real-world experiences highlighting precarious conditions                   |
 
 
-- **[ILOSTAT – International Labour Organization](https://ilostat.ilo.org/data/)**  
-  Useful for comparing average wages and working hours across countries.
-
-- **[World Bank Data](https://data.worldbank.org/)**  
-  Global economic indicators, labor participation rates, and wage comparisons.
 
 - **[Fairwork Ratings & Reports](https://fair.work/en/fw/homepage/)**  
   Data on working conditions of digital labor platforms.
@@ -142,8 +137,6 @@ We will draw from a combination of public datasets, academic research, investiga
 
 | Name | URL | Description |
 |------|-----|-------------|
-| Ghost Workers (Gray & Suri) | https://ghostworkers.info | Foundational book on the global workforce behind AI |
-| MIT Tech Review – The Hidden Human Labor Behind AI | https://www.technologyreview.com/2021/03/18/1020600/the-hidden-human-labor-behind-artificial-intelligence/ | Investigative deep-dive on invisible labor |
 | TIME – Inside OpenAI’s Outsourced Workforce | https://time.com/6147458/openai-chatgpt-kenya-workers/ | Firsthand stories of Kenyan labelers for OpenAI |
 | Partnership on AI – Responsible Sourcing | https://partnershiponai.org/responsible-sourcing-of-data-enrichment-services/ | Frameworks for ethical AI labor practices |
 | Fairwork – Ratings of Labor Platforms | https://fair.work/en/fw/homepage/ | Comparative data on labor platforms like Appen, Clickworker, etc. |
