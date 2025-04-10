@@ -89,9 +89,9 @@ The final section contrasts two possible futures:
 - Below are images of anticipated data visualizations. They show how much AI human labour goes into training, and the exploitation of workers. 
 
 
- <img src="P1I1.jpg" alt="Image" width="500">
+ <img src="P1I1.png" alt="Image" width="500">
 
- <img src="P1I2.jpg" alt="Image" width="500">
+ <img src="P1I2.png" alt="Image" width="500">
 
 
 
