@@ -5,7 +5,7 @@
 
 # Outline
 
-Artificial intelligence is everywhere—from your search engine results and virtual assistants to recommendation engines, image generators, and chatbot companions. These technologies appear seamless, smart, and almost magical. But what we don’t see is the massive, hidden workforce behind them—humans who spend long hours labeling images, moderating toxic content, and training models to act more "intelligent."
+Artificial intelligence is everywhere — from the search engine results and virtual assistants to recommendation engines, image generators, and chatbot companions. These technologies appear seamless, smart, and almost magical. But what we don’t see is the massive, hidden workforce behind them — the humans who spend long hours labeling images, moderating toxic content, and training models to act more "intelligent."
 
 This hidden workforce is often located in developing countries, working under precarious conditions, for wages as low as $1.50 per hour. These people are the invisible labor behind AI. They power every impressive interaction we have with AI systems, yet their stories are rarely told. This project brings their work to the forefront—shedding light on how artificial intelligence depends not just on algorithms, but on human labor, often cheap and unrecognized.
 
@@ -15,7 +15,7 @@ We want to unpack the true cost of training AI, not just in dollars and compute,
 
 ## Goal Statement
 
-Our goal is to expose and explain the hidden human labor required to train modern AI systems. We aim to educate audiences on the scale of this labor, the conditions under which it's performed, and the ethical questions it raises about fairness, transparency, and exploitation.
+Our goal is to make the public aware of the hidden human labor required to train modern AI systems. We aim to educate audiences on the scale of this labor, the conditions under which it's performed, and the ethical questions it raises about fairness, transparency, and exploitation.
 
 ## Target Audience
 
@@ -36,8 +36,6 @@ Our goal is to expose and explain the hidden human labor required to train moder
 - Support policies that make AI supply chains transparent and ethical.
 
 ## Project Structure & Story Flow
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear.
-
 
 ### Section 1 - Introduction: The Illusion of Automation
 
@@ -47,6 +45,8 @@ We begin with a simple but provocative idea: AI isn’t as autonomous as it look
 
 This section defines the types of tasks human workers perform:
 
+- Captcha
+  
 - Image labeling (e.g., "Is this a cat?")
 
 - Moderating offensive or violent content
@@ -57,9 +57,9 @@ This section defines the types of tasks human workers perform:
 
 We introduce key platforms like Amazon Mechanical Turk, Scale AI, Appen, and Sama, where such labor is outsourced.
 
-### Section 3 - Mapping the Global Workforce
+### Section 3 - Visualizing the scale and disparity
 
-Using a heatmap, we show how companies in Silicon Valley outsource labor to places like Kenya, the Philippines, Venezuela, and India. This section highlights economic disparities and visualizes global outsourcing pipelines.
+Using data visualition, we show how companies in Silicon Valley outsource labor to places like Kenya, the Philippines, Venezuela, and India. This section highlights economic disparities and visualizes global outsourcing pipelines.
 
 ### Section 4 - The Human Cost
 
@@ -74,6 +74,7 @@ Here we show:
 This is the emotional heart of the story. We want the audience to feel the weight of these workers’ experiences.
 
 ### Section 5 - What Can Be Done?
+
 The final section contrasts two possible futures:
 
 - Business-as-usual: Continued exploitation and opacity
