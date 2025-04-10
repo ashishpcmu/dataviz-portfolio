@@ -157,11 +157,7 @@ Tools & Platforms
 
 ## References
 
-- Gray, M. L., & Suri, S. (2019). *Ghost Work: How to Stop Silicon Valley from Building a New Global Underclass*.
-
 - Partnership on AI. (2021). *Responsible Sourcing of Data Enrichment Services*. Retrieved from [https://partnershiponai.org/responsible-sourcing-of-data-enrichment-services/](https://partnershiponai.org/responsible-sourcing-of-data-enrichment-services/)
-
-- MIT Technology Review. (2021). *The Hidden Human Labor Behind AI*. Retrieved from [https://www.technologyreview.com/2021/03/18/1020600/the-hidden-human-labor-behind-artificial-intelligence/](https://www.technologyreview.com/2021/03/18/1020600/the-hidden-human-labor-behind-artificial-intelligence/)
 
 - TIME. (2023). *Inside OpenAI’s Outsourced Workforce*. Retrieved from [https://time.com/6147458/openai-chatgpt-kenya-workers/](https://time.com/6147458/openai-chatgpt-kenya-workers/)
 
