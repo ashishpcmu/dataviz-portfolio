@@ -5,6 +5,8 @@
 
 # Outline
 
+### Invisible Labour : The Cost of "Helping" AI
+
 Artificial intelligence is everywhere — from the search engine results and virtual assistants to recommendation engines, image generators, and chatbot companions. These technologies appear seamless, smart, and almost magical. But what we don’t see is the massive, hidden workforce behind them — the humans who spend long hours labeling images, moderating toxic content, and training models to act more "intelligent."
 
 This hidden workforce is often located in developing countries, working under precarious conditions, for wages as low as $1.50 per hour. These people are the invisible labor behind AI. They power every impressive interaction we have with AI systems, yet their stories are rarely told. This project brings their work to the forefront—shedding light on how artificial intelligence depends not just on algorithms, but on human labor, often cheap and unrecognized.
