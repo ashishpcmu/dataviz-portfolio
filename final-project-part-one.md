@@ -115,10 +115,10 @@ We will draw from a combination of public datasets, academic research, investiga
 
 | Visualization Type       | Data Source                                                                  | Key Insights                                                                 |
 |---------------------------|-------------------------------------------------------------------------------------|------------------------------------------------------------------------------|
-| Line Chart               | [BounTCHA study](https://www.bouncethatcaptcha.com/research)                         | Average time humans spend on CAPTCHA tasks vs. bots                         |
-| Bar Chart                | [Pingax salary comparison](https://www.pingax.com/ai-salary-comparison), [Mechanical Turk research](https://www.mturk.com) | Wage disparity between engineers and annotators                             |
-| Time Series Chart        | [Master list of lawsuits](https://www.aicopyrightlawsuits.com), [Debevoise litigation report](https://www.debevoise.com/ai-litigation) | Increasing number of lawsuits against AI companies                          |
-| Quote Visuals            | [Mercy’s testimonial (Kenya)](https://www.kenyancontentmoderators.com), [Saiph Savage’s research](https://www.saiphsavage.com/research) | Real-world experiences highlighting precarious conditions                   |
+| Line Chart               | [BounTCHA study](https://arxiv.org/html/2501.18565v2)                         | Average time humans spend on CAPTCHA tasks vs. bots                         |
+| Bar Chart                | [Pingax salary comparison](https://www.pingax.com/ai-salary-comparison), [Mechanical Turk research](https://www.khoury.northeastern.edu/faculty-research-on-ai-and-invisible-labor-honored-for-critical-real-world-impact/) | Wage disparity between engineers and annotators                             |
+| Time Series Chart        | [Master list of lawsuits](https://chatgptiseatingtheworld.com/2025/01/07/updated-the-master-list-of-ai-copyright-lawsuits-current-total-38/), [Debevoise litigation report](https://www.debevoise.com/insights/publications/2025/01/lessons-learned-from-2024-and-the-year-ahead-in-ai) | Increasing number of lawsuits against AI companies                          |
+| Quote Visuals            | [Mercy’s testimonial (Kenya)](https://www.etf.europa.eu/en/news-and-events/news/hidden-workforce-powering-ai-unseen-labour-and-urgent-reforms), [Saiph Savage’s research](https://www.khoury.northeastern.edu/faculty-research-on-ai-and-invisible-labor-honored-for-critical-real-world-impact/) | Real-world experiences highlighting precarious conditions                   |
 
 
 
