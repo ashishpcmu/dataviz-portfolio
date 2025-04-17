@@ -98,11 +98,11 @@ Questions:
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
 | Use Narrative structure | Add sections in Setup, Conflict and Resolution format |
-| More Compelling CTA     |           Possibly add a Donate Now button                                                                 |
+| More Compelling CTA     |           Possibly add a Donate Now button (Need some research on this)                                                                |
 |    Add data on range of salaries            |         Bar graph showing range of salaries across AI tasks                                     |
 
 
-> ...include any final thoughts you have here. 
+> Other thoughts: Include graph on Growth of AI Everywhere in Introduction and a section on How this training data is used by companies in AI Model building
 
 
 
