@@ -31,7 +31,7 @@ Content: Stats on average pay, working hours, job security
 Graphs: 
 
 - Bar graph: Earnings per hour (annotator vs. software engineer).
-- Carousel of quotes from TIME, Fairwork, and MIT Tech Review.
+- Quotes from TIME, Fairwork, and MIT Tech Review.
 - Mental health implications of content moderation.
 
 ## Slide 4: AI Ethical risks
