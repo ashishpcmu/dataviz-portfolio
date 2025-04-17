@@ -2,21 +2,11 @@
 
 # Draft Narrative Development
 
-Building on Part I, this draft narrative focuses on walking the reader through the ethical and human realities behind the AI they interact with daily. The story is being developed in Shorthand, with supporting high-fidelity visualizations designed in Tableau, Flourish, and Datawrapper.
+Building on Part I, this draft narrative focuses on walking the reader through the human and ethical considerations behind the AI they interact with daily. The story is being developed in Shorthand, with supporting high-fidelity visualizations designed in Tableau.
 
 The draft includes:
 
-- Scroll-based narrative in Shorthand
-
-- Visual introduction: "AI Isn't Magic – It's Human Labor"
-
-- Global heatmap: Annotator locations across the globe (Tableau)
-
-- Bar chart: Wage comparison – data annotators vs. AI engineers (Datawrapper)
-
-- Quote carousel: Worker testimonials and lived experiences (Flourish)
-
-- Split-screen: Future with and without labor transparency in AI supply chains
+- Narrative in Shorthand : https://preview.shorthand.com/7t9apo3C4MkILMUw
 
 
 
@@ -24,131 +14,97 @@ The draft includes:
 
 Below is a walkthrough of the current structure, supported by visual wireframes (embedded in GitHub and Shorthand prototype):
 
-## Slide 1: Illusion of Autonomy
+## Slide 1: What is Invisible Labour?
 
-Animation: AI responding to user query → Flashback to worker labeling similar data.
+Content: Introduce Invisible Labour in AI training
 
-Text overlay: "AI doesn’t learn alone. It needs thousands of human teachers."
 
-## Slide 2: What Is Invisible Labor?
+## Slide 2: Mapping the Labor
 
-Illustration of tasks: Content moderation, image labeling, speech annotation.
+Content: Tableau heatmap of labor hubs (Kenya, Philippines, India, Venezuela).
 
-Visual metaphor: Factory-style conveyor belt, with workers manually tagging data.
 
-## Slide 3: Mapping the Labor
+## Slide 3: Human Cost & Lawsuits
 
-Tableau heatmap of labor hubs (Kenya, Philippines, India, Venezuela).
+Content: Stats on average pay, working hours, job security
 
-Stats on average pay, working hours, job security.
+Graphs: 
 
-## Slide 4: Human Cost
+- Bar graph: Earnings per hour (annotator vs. software engineer).
+- Carousel of quotes from TIME, Fairwork, and MIT Tech Review.
+- Mental health implications of content moderation.
 
-Carousel of quotes from TIME, Fairwork, and MIT Tech Review.
+## Slide 4: AI Ethical risks
 
-Datawrapper bar graph: Earnings per hour (annotator vs. software engineer).
-
-Sidebar: Mental health implications of content moderation.
+Content: Ethical considerations of AI training - increasing wealth disparities and exploitation
 
 ## Slide 5: What’s Next?
 
 Split panel: Ethical AI Future vs. Status Quo.
 
-CTA buttons: Learn More | Support Fairwork | Contact Policy Makers
+CTA buttons: Learn More | Contact Policy Makers
 
-Storyboard images and high-fidelity visuals are embedded in the GitHub repo.
+
 
 # User research 
 
 ## Target audience
 
-- AI-interested general public
+- The general public who interact with AI tools daily.
 
-- Tech workers (especially product managers, designers, and engineers)
+- AI developers and product designers in tech companies.
 
-- Students and educators in data ethics and AI
+- Journalists, educators, and students researching AI ethics.
+
+- Policymakers and activists focused on labor rights and technology governance.
 
 
 ## Interview script
 
 Questions:
 
-- What stood out to you in the story?
-
-- Was anything unclear or confusing?
-
-- Did any visuals help you understand the topic better?
-
-- Did you feel empathy for the workers? Why or why not?
-
-- Do you think this story changes how you see AI?
-
-- Is the call to action compelling and clear?
-
-- What would you add or change?
 
 
-Text here!
+| Goal                                      | Questions to Ask                                                                                         |
+|-------------------------------------------|----------------------------------------------------------------------------------------------------------|
+| Identify audience engagement              | Who do you think is the audience? What stood out to you in the story?                                   |
+| Assess clarity of narrative               | Was anything unclear or confusing?                                                                      |
+| Evaluate visual effectiveness             | Did any visuals help you understand the topic better? Is the dark color schema looking apt for this topic? |
+| Measure emotional impact                  | Did you feel empathy for the workers? Why or why not?                                                   |
+| Test persuasiveness of the call to action | Is the call to action compelling and clear?                                                              |
+| Gather ideas for improvement              | What would you add or change?                                                                            |
 
-| Goal | Questions to Ask |
-|------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
-
-
-Text here!
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
-Text here!
 
 ### d. User Research Findings
 
-| Questions                                              | Interview 1 (Data Scientist)                                                              | Interview 2 (Grad Student in Policy)                                                  |
+| Questions                                              | Interview 1 (Grad Student)                                                              | Interview 2 (Grad Student)                                                  |
 |--------------------------------------------------------|-------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
-| What stood out to you in the story?                    | The wage gap visuals and heatmap were “startling” and made the issue feel immediate.     | The personal quotes resonated the most and helped humanize the story.                 |
-| Was anything unclear or confusing?                     | Sankey diagram felt “too abstract” without clear legend.                                 | Slight confusion around which tasks were performed by humans vs. machines.            |
-| Did any visuals help you understand the topic better?  | The bar chart on earnings made the disparity crystal clear.                              | The map showing outsourcing hotspots was “very effective.”                            |
-| Did you feel empathy for the workers? Why or why not?  | Yes – especially after reading the quotes about content moderation and burnout.          | Yes – the narrative made me think about my own use of AI and its hidden costs.        |
-| Did the story change how you see AI?                   | Definitely. I’ll never think of “automated” tools the same way again.                    | It made me reflect on the ethics of the tech tools I use and promote in policy work.  |
+| What stood out to you in the story?                    | The wage gap visuals and heatmap were nice and made the issue feel immediate.     | The countries heatmap helped see the distribution in low income countries.                 |
+| Was anything unclear or confusing?                     | Nothing much as such.                                 | Slight confusion around how these tasks help in AI models.            |
+| Did any visuals help you understand the topic better?  | The bar chart on earnings made the disparity clear.                              | The map showing outsourcing hotspots was very effective.                            |
+| Did you feel empathy for the workers? Why or why not?  | Yes – especially after reading about content moderation and burnout.          | Yes – the narrative made me think about my own use of AI and its hidden costs.        |
 | Is the call to action compelling and clear?            | Somewhat – could use a more direct “here’s what you can do” list.                        | Suggested adding a donation or petition link for more tangible action.                |
 | What would you add or change?                          | Move the worker quotes earlier in the experience.                                        | Emphasize global inequality more clearly in the stats.                                |
+| Did the color scheme work for the tone?                | Dark theme was effective — matched the emotional vibe of the topic.                      | Yes - keeps focus on the seriousness of labor issues.                                 |
 
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
-|-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
 
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
-
-Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+| Use Narrative structure | Add sections in Setup, Conflict and Resolution format |
+| More Compelling CTA     |           Possibly add a Donate Now button                                                                 |
+|    Add data on range of salaries            |         Bar graph showing range of salaries across AI tasks                                     |
+
 
 > ...include any final thoughts you have here. 
 
-Text here!
 
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
 
-Text here!
 
-## References
-_List any references you used here._
-
-## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
 
