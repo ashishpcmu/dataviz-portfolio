@@ -12,7 +12,7 @@ The draft includes:
 
 # Wireframes / storyboards
 
-Below is a walkthrough of the current structure, supported by visual wireframes (embedded in GitHub and Shorthand prototype):
+Below is a walkthrough of the current structure, supported by visual wireframes (embedded in Shorthand prototype):
 
 ## Slide 1: What is Invisible Labour?
 
