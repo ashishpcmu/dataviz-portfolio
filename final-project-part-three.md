@@ -12,11 +12,11 @@ After Part II, I made the following changes to improve the narrative structure, 
 
 ### Use of Setup, Conflict and Resolution narrative structure
 
-I changed the narrative structure to Setup, Conflict and Resolution framework to make it more engaging. I introduced the increasing investment in AI and the training data behind these models to setup a positive picture of AI. Then I showed a conflict where millions of workers around the world involved in this are exploited by big tech companies. The final resolution is showing evidence of ethical violations and lawsuits using data to convince the audience to call for action by signing the pledge.
+I changed the narrative structure to Setup, Conflict and Resolution framework to make it more engaging. I introduced the increasing investment in AI and the training data behind these models to setup a positive picture of AI. Then I showed a conflict where millions of workers around the world involved in this are exploited by big tech companies. The final resolution is showing evidence of ethical violations and increasing lawsuits using data visualizations to convince the audience to call for action by signing the pledge.
 
 ### Streamlined Data Visualizations using multiple chart types with uniform color palette
 
-I used multiple chart types, like line charts, bar graphs, maps, pie chart and area graphs to show the insights from data analysis. Since the theme was dark and negative, I maintained a uniform red to orange color palette scheme throughout the charts for consistency. 
+I used multiple chart types, like line charts, bar graphs, maps, pie chart and area graphs to show the insights from data analysis. Since the theme was dark and negative, I maintained a uniform red to orange color scheme throughout the charts for consistency. 
 
 ### Changed Call to action
 
@@ -34,9 +34,9 @@ In Part II, there were some images which had copyrights on them. So I changed al
 
 For my final data story, I identified two key audience groups: the general public who interact with AI tools daily, and journalists, educators, and students researching AI ethics. I narrowed this focus based on insights gathered from interviews and existing personas that emphasized growing concerns around AI's societal impact, particularly regarding invisible labor. 
 
-To better reach the general public, I simplified technical jargon and used relatable examples of everyday AI use in captachs and social media use. For journalists and educators, I incorporated clear, sourced data points and visualizations that provided evidence of exploitation of the invisible AI workers. The call to action was also modified to sign an AI pledge, so the target audience can take action regarding this issue.
+To better reach the general public, I simplified technical jargon and used relatable examples of everyday AI use in captchas and social media use. For journalists and educators, I incorporated clear, sourced data points and visualizations that provided evidence of exploitation of the invisible AI workers. The call to action was also modified to sign an AI pledge, so the target audience can take action regarding this issue.
 
-Text here!
+
 
 ## Final design decisions
 
@@ -58,15 +58,15 @@ Reflecting on the process, one key learning was how critical it is to have a coh
 
 ## References
 > Listed in the  Shorthand story
-> 
+
 ## AI acknowledgements
 
 > ChatGPT was used to research the exploitation in the AI data labelling industry as information on this topic was sparse and fragmented. The sources were verified and analysed to incorporate the data visualizations in the story.
-Text here!
+
 
 # Final thoughts
 
-Overall, working on the Invisible Labor in AI story was both challenging and deeply rewarding. I felt that the narrative and visual structure came together well to tell a compelling story. There were  a few things I wish I had more time to refine. For instance, I  wanted to include quotes from actual data labelers to add a more personal, human dimension to the story, but I did not have time to integrate those interviews due to 1 minute time limit for presentation.
+Overall, working on the Invisible Labor in AI story was both challenging and rewarding. I felt that the narrative and visual structure came together well to tell a compelling story. There were  a few things I wish I had more time to refine. For instance, I  wanted to include quotes from actual data labelers to add a more personal, human dimension to the story, but I did not have time to integrate those interviews due to 1 minute time limit for presentation.
 
 One thing I was particularly excited about was the Ethical AI Pledge — it felt empowering to not just present a problem, but to offer the audience a way to actively engage with it. It was gratifying to see how a carefully designed call to action could make the data story feel more participatory rather than passive.
 
