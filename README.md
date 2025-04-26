@@ -30,7 +30,7 @@ I’m here to learn all the things—obviously! But more specifically, I want to
 
 # Portfolio
 
-- [Visualizing overnment Debt](visualizing-government-debt)
+- [Visualizing Government Debt](visualizing-government-debt)
 
 - [Critique by Design](critique-by-design)
 
